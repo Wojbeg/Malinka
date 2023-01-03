@@ -1346,3 +1346,11 @@ input[type="radio"]:checked::before{
     flex-direction: column;
   }
 }
+
+.transaction-card {
+  width: 60vw;
+}
+
+.reclamation-btn {
+  border: none;
+}
